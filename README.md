@@ -1,0 +1,2 @@
+# TargetSdkVersionSample
+让APP无法在指定系统版本上运行的样例
